@@ -34,6 +34,7 @@ Etapas do desenvolvimento:
 #2 Definir objetivos e informações a serem disponibilizadas 
 #3 Usar o Gemini para gerar o código
 #4 Seguir instruções no Google Colab alterando para o modelo desejado
+<img width="1445" alt="googlegemini" src="https://github.com/elisamariacampos/chatenchentes/assets/70405914/360fd921-1b5d-48b4-8b82-c71cb4bbdaba">
 
 ## Tecnologias
 
